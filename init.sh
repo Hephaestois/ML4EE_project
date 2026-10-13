@@ -1,5 +1,5 @@
 #!/bin/bash
-python3 -m venv create ./venv
+python3 -m venv ./venv
 source ./venv/bin/activate
 pip install -r ./requirements.txt
 echo "venv created. Remember to select it as kernel in notebook!"
