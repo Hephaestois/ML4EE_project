@@ -1,0 +1,10 @@
+|X|- Transfer stuff to other file
+|X|- Add Trees
+|X|- PCA visulisation
+| |- Add Bagging and Boosting
+|X|- Cluster from Regression
+|X|- KNN Classifier
+|X|- Tree Classifier
+|X|- MLP Classifier
+|X|- SVC Classifier
+| |- Looking at Class balance in Training Data
